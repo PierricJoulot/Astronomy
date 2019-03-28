@@ -3,7 +3,7 @@
 This repo is where I am going to add everything I do at/for Geneva's Observatory, in the domaine of exoplanets.
 
 In this repo, I'll add:
- -  My learning of the lightkurve package (tutorials)
+ -  My learning of the lightkurve package ([tutorials](http://docs.lightkurve.org/tutorials/index.html))
  -  Studies of lightcurves for known binary stars, exoplanets, pulsing stars, etc
  -  A deeper study of one lightcurve
  
