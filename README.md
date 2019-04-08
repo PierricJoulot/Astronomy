@@ -7,10 +7,10 @@ In this repo, I'll add:
  -  My learning of the lightkurve package ([tutorials](http://docs.lightkurve.org/tutorials/index.html))
  -  Study of a few lightcurves: (✓="completed", ...="currently working on it", X="untouched")
  
-       - [EPIC228735255](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC228735255) | ...
-       - [EPIC249624646](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC249624646) | ...
-       - [EPIC248914080](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC248914080) |  ✓
-       - [EPIC247418783](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC247418783) | ...
+       - [EPIC228735255](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC228735255) | ... | 1 exoplanet
+       - [EPIC249624646](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC249624646) | ... | 2 exoplanets
+       - [EPIC248914080](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC248914080) |  ✓  | binary stars
+       - [EPIC247418783](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC247418783) | ... | 1 exoplanet
        - EPIC249470337 |  X
        - EPIC210363145 |  X
        - EPIC211813818 |  X
