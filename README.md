@@ -12,7 +12,7 @@ In this repo, I'll add:
        - [EPIC248914080](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC248914080) |  ✓  | binary stars
        - [EPIC247418783](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC247418783) | ... | 1 exoplanet
        - [EPIC249470337](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC249470337) | ... | Binary system or star oscillation?
-       - [EPIC210363145](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC210363145) |  X  |
+       - [EPIC210363145](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC210363145) |  X  | ???
        - [EPIC211813818](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC211813818) |  X  |
        - [EPIC212417656](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC212417656) |  X  |
        - [EPIC249346402](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC249346402) |  X  |
