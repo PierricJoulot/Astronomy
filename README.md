@@ -24,6 +24,6 @@ In this repo, I'll add:
        - [EPIC248660220](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC248660220) |  ✓  | binary stars
         
      for the search of exoplanets, star's variations, supernovae, binaries, etc.
-     (✓=4/15, ...=6/15, X=5/15)
+     (✓=5/15, ...=10/15, X=0/15)
  
  This experiment was made possible by [Helen Giles](https://www.helengiles.com/) and [Oliver Turner](http://nccr-planets.ch/team/turner-oliver-dr/)
