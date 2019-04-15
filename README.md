@@ -20,8 +20,8 @@ In this repo, I'll add:
        - [EPIC201437844](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC201437844) | ... | 1 exoplanet
        - [EPIC246067459](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC246067459) | ... | 1 exoplanet
        - [EPIC248847494](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC248847494) | ... | weird oscillation at the end of the lc
-       - [EPIC248029954](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC248029954) | ... |
-       - [EPIC248660220](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC248660220) |  X  |
+       - [EPIC248029954](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC248029954) | ... | ?super flare?
+       - [EPIC248660220](https://github.com/PierricJoulot/Astronomy/tree/master/EPIC248660220) |  ✓  | binary stars
         
      for the search of exoplanets, star's variations, supernovae, binaries, etc.
      (✓=4/15, ...=6/15, X=5/15)
