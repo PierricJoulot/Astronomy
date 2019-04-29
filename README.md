@@ -7,11 +7,11 @@ In this repo, I'll add:
  -  My learning of the lightkurve package ([tutorials](http://docs.lightkurve.org/tutorials/index.html))
  -  Study of a few lightcurves: (✓="completed", ...="currently working on it", X="untouched")
  
-       - [EPIC228735255](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC228735255/EPIC%228735255.ipynb) | ... | 1 exoplanet
-       - [EPIC249624646](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC249624646/EPIC%249624646.ipynb) | ... | 2 exoplanets
-       - [EPIC248914080](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC248914080/EPIC%248914080.ipynb) |  ✓  | binary stars
-       - [EPIC247418783](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC247418783/EPIC%247418783.ipynb) |  ✓  | 1 exoplanet
-       - [EPIC249470337](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC249470337/EPIC%249470337.ipynb) |  ✓  | binary stars
+       - [EPIC228735255](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC228735255/EPIC%20228735255.ipynb) | ... | 1 exoplanet
+       - [EPIC249624646](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC249624646/EPIC%20249624646.ipynb) | ... | 2 exoplanets
+       - [EPIC248914080](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC248914080/EPIC%20248914080.ipynb) |  ✓  | binary stars
+       - [EPIC247418783](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC247418783/EPIC%20247418783.ipynb) |  ✓  | 1 exoplanet
+       - [EPIC249470337](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC249470337/EPIC%20249470337.ipynb) |  ✓  | binary stars
        - [EPIC210363145](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC210363145/EPIC210363145.ipynb) | ... | 1 exoplanet
        - [EPIC211813818](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC211813818/EPIC211813818.ipynb) | ... | stellar spot
        - [EPIC212417656](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC212417656/EPIC212417656.ipynb) |  ✓  | binary stars
