@@ -18,7 +18,7 @@ In this repo, I'll add:
        - [EPIC249346402](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC249346402/EPIC249346402.ipynb) |  ✓  | binary stars
        - [EPIC201885041](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC201885041/EPIC201885041.ipynb) |  ✓  | stellar flare
        - [EPIC201437844](https://github.com/PierricJoulot/Astronomy/blob/master/Lightcurves/EPIC201437844/EPIC201437844.ipynb) |  ✓  | 1 exoplanet
-       - [EPIC246067459](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC246067459/EPIC246067459.ipynb) | ... | 1 exoplanet
+       - [EPIC246067459](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC246067459/EPIC246067459.ipynb) |  ✓  | 1 exoplanet
        - [EPIC248847494](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC248847494/EPIC248847494.ipynb) | ... | potential exoplanet
        - [EPIC248029954](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC248029954/EPIC248029954.ipynb) |  ✓  | super flare
        - [EPIC248660220](https://github.com/PierricJoulot/Astronomy/tree/master/Lightcurves/EPIC248660220/EPIC248660220.ipynb) |  ✓  | binary stars
