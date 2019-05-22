@@ -1,0 +1,36 @@
+\ 
+\ Chi-Squared Parameter Values for EXOFAST Calculation
+\ 
+\ Title: EXOFAST-009
+\ Date : Mon May 13 06:57:56 2019
+\ Fit Type: CHI2
+\ 
+| symbol          | parameter                               | units                   | value           |
+| char            | char                                    | char                    | double          |
+ M*                Stellar Mass                              Msun                              1.048502 
+ R*                Stellar Radius                            Rsun                              1.010838 
+ L*                Stellar Luminosity                        Lsun                              0.963052 
+ rho*              Stellar Density                           cgs                               1.432723 
+ logg*             Stellar Surface Gravity                   cgs                               4.449324 
+ Teff              Effective Temperature                     K                              5691.442590 
+ FeH               Metallicity                               none                              0.133754 
+ P                 Period                                    days                              6.569156 
+ a                 Semi-Major Axis                           AU                                0.069721 
+ Rp                Planet Radius                             Rj                                1.117201 
+ Teq               Equilibrium Temperature                   K                              1044.845195 
+ Fave              Incident Flux                             10^9 ergs s^-1 cm^-2              0.270322 
+ TC                Time of Transit                           BJD                         2457588.285554 
+ Rp/R*             Radius of Planet in Stellar Radii         none                              0.113608 
+ a/R*              Semi-Major Axis in Stellar Radii          none                             14.835795 
+ u1                Linear Limb-Darkening Coeff               none                              0.423980 
+ u2                Quadratic Limb-Darkening Coeff            none                              0.132119 
+ i                 Inclination                               degrees                          89.999285 
+ b                 Impact Parameter                          none                              0.000185 
+ delta             Transit Depth                             none                              0.012907 
+ TFWHM             FWHM Duration                             days                              0.141056 
+ tau               Ingress/Egress Duration                   days                              0.016049 
+ T14               Total Duration                            days                              0.157105 
+ PT                A Priori Non-Grazing Transit Prob         none                              0.059747 
+ PTG               A Priori Transit Prob                     none                              0.075062 
+ F0                Baseline Flux                             none                              1.000007 
+ TS                Time of Eclipse                           BJD                         2457591.570132 
